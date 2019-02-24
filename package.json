@@ -1,0 +1,22 @@
+{
+  "name": "deepdive",
+  "version": "1.0.0",
+  "description": "Following along the Typescript Deepdive book by Basarat",
+  "main": "first.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJHanekom/typescript-deepdive.git"
+  },
+  "author": "Jan Hanekom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJHanekom/typescript-deepdive/issues"
+  },
+  "homepage": "https://github.com/AJHanekom/typescript-deepdive#readme",
+  "dependencies": {
+    "@types/node": "^11.9.5"
+  }
+}

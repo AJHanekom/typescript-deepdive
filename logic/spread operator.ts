@@ -12,7 +12,7 @@ function spread() {
   foo.apply(null, args);
 
   // Simplified with Spread
-  foo(...args); // Error but still works
+  //foo(...args); // Error but still works
 
   // Use in destructuring
   var [x, y, ...remaining] = [1, 2, 3, 4];
